@@ -1,0 +1,49 @@
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.tex.bak
+*.bbl
+*.blg
+__pycache__
+*~
+*.toc
+*.loa
+*.lof
+*.bak
+
+# PyCharm junk
+
+.idea
+
+# outputs from training
+
+models
+logs
+outputs
+
+# cache from matplotlib
+src/.cache
+
+# TeX
+
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.loa
+*.lof
+*.toc
+*.lot
+*.gz
+*.synctex.gz
+*.lol
+*.nav
+*.snm
+*.vrb
+
+professional-debate/ondrej-pesek-professional-debate-2020.pdf
+professional-debate/presentation/presentation.pdf
+professional-debate/presentation/presentation.pdfpc
+text/ondrej-pesek-phd-2020.pdf
